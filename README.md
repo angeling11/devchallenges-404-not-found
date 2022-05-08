@@ -20,8 +20,6 @@
   </h3>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
 ## Table of Contents
 
 - [Overview](#overview)
@@ -30,7 +28,6 @@
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
-<!-- OVERVIEW -->
 
 ## Overview
 
@@ -45,9 +42,9 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
-
+You can the the demo [here](http://404-not-found.projects.natryvat.com). I used surge to host the demo and a subdomain from my own website.
 - What was your experience?
-This was a refresh to CSS as I haven't used it in a while. Hoever, kniwd the basic is very helpful as well as having the design is a great advantage.
+This was a refresh to CSS as I haven't used it in a while. However, knowing the basics was very helpful, as well as having the design is a great advantage.
 - What have you learned/improved?
 At the beggining I didn't know how to start. I wanted to do it without any library but I got a useful solution but there ware sone gaps in the resposivity. Then I decided to use Bulma CSS just to try it as I had just used bootrap before.
 - Your wisdom? :)
